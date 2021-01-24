@@ -1,4 +1,5 @@
 # Fraud-Detection
+Data obtained from https://www.kaggle.com/vbinh002/fraud-ecommerce
 - Highly imbalanced data
 - Time related raw data and aggregates are important/predictive of fraud
 
